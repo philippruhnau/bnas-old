@@ -1,11 +1,12 @@
-# Simple Website
+# Brain Networks and Stimulation Lab @University of Lancashire
 
 ![Top Image](/assets/logos/logo.png)
 
-## Welcome to the Website
+## Welcome to Brain Networks and Stimulation Lab
 
-This is a simple summary text area. You can replace this text with anything you want—an introduction, a description, or any other content you'd like to highlight.
+In our lab we are interested in exploring how the brain is enabling cognition. 
+We use electrophysiology (mostly EEG) as well as non-invasive brain stimulation (tDCS, tACS) to explore cognition. 
 
 ---
 
-© 2025 Your Website. All rights reserved.
+© 2025 PRuhnau. All rights reserved.
